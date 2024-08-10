@@ -1,0 +1,7 @@
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\bin\Debug\PrimalSimplexAttempt.exe.config
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\bin\Debug\PrimalSimplexAttempt.exe
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\bin\Debug\PrimalSimplexAttempt.pdb
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\obj\Debug\PrimalSimplexAttempt.csproj.AssemblyReference.cache
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\obj\Debug\PrimalSimplexAttempt.csproj.CoreCompileInputs.cache
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\obj\Debug\PrimalSimplexAttempt.exe
+C:\Users\tyron\source\repos\PrimalSimplexAttempt\obj\Debug\PrimalSimplexAttempt.pdb
